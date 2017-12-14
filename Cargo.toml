@@ -1,0 +1,10 @@
+[package]
+name = "falke"
+version = "0.1.0"
+authors = ["Benjamin Kampmann <ben@gnunicorn.org>"]
+
+description = "A rust implementation of the Falcon - falcon-sign.info - signing cryptographic algorithm. Based on the reference implementation."
+
+readme = "README.md"
+
+[dependencies]
