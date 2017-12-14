@@ -9,3 +9,7 @@ readme = "README.md"
 license = "MIT/Apache"
 
 [dependencies]
+
+tiny-keccak = "1.4.0"
+rand = "0.3"
+hex = "*"
