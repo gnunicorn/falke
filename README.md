@@ -10,3 +10,8 @@ I made this as a crypto-rust-learning project, but even if I was more versed in 
 
 For more about the algorithm itself, please go to [falcon-sign.info](https://falcon-sign.info/)
 
+## License
+
+The original Source Code (and from my understand the algorithm itself) has been published under MIT.
+
+This code is dual-licensed under MIT and Apache, see LICENSE-MIT and LICENSE-Apache for details. All contributors agreed to have their contributions licensed this way.
